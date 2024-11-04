@@ -3,7 +3,7 @@ name: Bug
 about: Describe this issue template's purpose here.
 title: 'BUG: '
 labels: bug
-Projects: "Payments"
+Projects: Payments
 assignees: ''
 
 ---
