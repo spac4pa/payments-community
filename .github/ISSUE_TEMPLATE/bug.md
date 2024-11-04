@@ -3,6 +3,7 @@ name: Bug
 about: Describe this issue template's purpose here.
 title: 'BUG: '
 labels: bug
+Projects: Payments
 assignees: ''
 
 ---
@@ -28,4 +29,4 @@ L'utente riceve un messaggio di errore "Credenziali non valide".
 **Screenshot**:
 (inserire screenshot se disponibili)
 
-### Labels: bug
+

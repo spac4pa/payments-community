@@ -3,8 +3,8 @@ name: Feature request
 about: Describe this issue template's purpose here.
 title: 'Feature request:'
 labels: Feature request
+Projects: Payments
 assignees: ''
-
 ---
 
 ### Titolo: Aggiungere la Funzionalità di Recupero Password
