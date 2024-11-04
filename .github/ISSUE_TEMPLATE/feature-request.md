@@ -1,8 +1,8 @@
 ---
 name: Feature request
 about: Describe this issue template's purpose here.
-title: ''
-labels: ''
+title: 'Feature request:'
+labels: Feature request
 assignees: ''
 
 ---
